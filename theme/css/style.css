@@ -1,0 +1,67 @@
+.appname { color: #15498b; }
+
+.appname div { padding: 0px 24px 0px 4px; font-weight: bold; font-size: 1.1em; }
+
+.appname SMALL { padding: 0px 30px 0px 15px; text-transform: uppercase; font-size: 70%; }
+
+.username { color: #15498b; }
+
+.username div { padding: 0px 4px 0px 4px; font-weight: bold; font-size: 1em; }
+
+.requests { background-image: url(../images/requests.gif) !important; }
+
+.users { background-image: url(../images/user.png) !important; }
+
+.companies { background-image: url(../images/companies.gif) !important; }
+
+.contractors { background-image: url(../images/contractors.gif) !important; }
+
+.categories { background-image: url(../images/categories.gif) !important; }
+
+.nets { background-image: url(../images/nets.gif) !important; }
+
+.budgets { background-image: url(../images/budgets.gif) !important; }
+
+.docs { background-image: url(../images/docs.gif) !important; }
+
+.logout { background-image: url(../images/logout.gif) !important; }
+
+.add { background-image: url(../images/add.png) !important; }
+
+.delete { background-image: url(../images/delete.gif) !important; }
+
+.refresh { background-image: url(../images/refresh.gif) !important; }
+
+.accept { background-image: url(../images/accept.png) !important; }
+
+.decline { background-image: url(../images/decline.png) !important; }
+
+.save { background-image: url(../images/save.gif) !important; }
+
+.export { background-image: url(../images/export.gif) !important; }
+
+.projects { background-image: url(../images/projects.gif) !important; }
+
+.settings { background-image: url(../images/settings.gif) !important; }
+
+.rule { background-image: url(../images/rule.png) !important; }
+
+.rule-condition { background-image: url(../images/rule-condition.png) !important; }
+
+.rule-action { background-image: url(../images/rule-action.png) !important; }
+
+.asterisk { background-image: url(../images/asterisk.png) !important; }
+
+.total {font-weight: bold !important; margin-left: 4px; }
+
+html,body {
+	background:#f0f5fa url(../images/bg.gif) repeat-x center bottom !important;
+}
+
+.red {color: red !important;}
+.strongred {color: red !important; font-weight: bold !important;}
+
+.x-grid-row-summary .x-grid-cell-inner {
+	font-weight: bold !important;
+}
+
